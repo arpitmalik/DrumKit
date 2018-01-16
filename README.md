@@ -4,6 +4,6 @@ This folder contains all the mini projects that come under the javascript30 cour
 
 All the projects are made by me from scratch.
 
-#The Projects are as follows:
+# The Projects are as follows:
 
 01- The Drum Kit
