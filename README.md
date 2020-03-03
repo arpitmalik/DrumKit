@@ -1,9 +1,2 @@
-# Javascript30
-
-This folder contains all the mini projects that come under the javascript30 course from  https://javascript30.com . 
-
-All the projects are made by me from scratch.
-
-# The Projects are as follows:
-
-01- The Drum Kit
+# The Drum Kit
+To run this mini project, you need to clone or download the zip file. Then open the index.html file to run it.
